@@ -33,5 +33,5 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 
 ### How to reach me:
 * :globe_with_meridians: I'm based in Tulsa, Oklahoma
-* [LinkedIn](www.linkedin.com/in/kenneth-childs)
+* [LinkedIn](https://www.linkedin.com/in/kenneth-childs/)
 * :mailbox_with_mail: You can reach me at kenneth.childs20@gmail.com
