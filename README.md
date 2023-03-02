@@ -22,7 +22,7 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 
 ### Personal Interest:
 * :family: I enjoy being around my family
-* :spades: I like play spades
+* :spades: I like playing spades
 * :laughing: :musical_note: Watching stand up comedy and music
 * :video_game: Playing video games
 * :tv: Watching TV
