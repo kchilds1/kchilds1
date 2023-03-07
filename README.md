@@ -28,7 +28,7 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 * :tv: Watching TV
 
 ### What I'm learning:
-![Icons](https://user-images.githubusercontent.com/103333336/223575075-aa0f76fd-aaeb-4d03-b0d9-ef00b0c4ef12.png)
+![Icons](https://user-images.githubusercontent.com/103333336/223575075-aa0f76fd-aaeb-4d03-b0d9-ef00b0c4ef12.png) width=400 height=200
 <img src="https://user-images.githubusercontent.com/103333336/223575075-aa0f76fd-aaeb-4d03-b0d9-ef00b0c4ef12.png" width=600 height=300>
 
 ### What I'm working on:
