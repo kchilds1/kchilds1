@@ -27,6 +27,9 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 * :video_game: Playing video games
 * :tv: Watching TV
 
+### What I'm learning:
+![Icons](https://user-images.githubusercontent.com/103333336/223575075-aa0f76fd-aaeb-4d03-b0d9-ef00b0c4ef12.png)
+
 ### What I'm working on:
 * :computer: I'm taking a bootcamp at [OKCoders](https://www.okcoders.com)
 * :computer: I'm also doing tutorials at [freecodecamp](https://www.freecodecamp.org) 
