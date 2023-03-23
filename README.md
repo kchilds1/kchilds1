@@ -31,6 +31,7 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 ### What I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 [![css](https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/CSS.svg)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+[<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/CSS.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
 ### What I'm working on:
 * :computer: I'm taking a bootcamp at [OKCoders](https://www.okcoders.com)
