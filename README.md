@@ -29,7 +29,7 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 * :tv: Watching TV
 
 ### What I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
 
 ### What I'm working on:
 * :computer: I'm taking a bootcamp at [OKCoders](https://www.okcoders.com)
