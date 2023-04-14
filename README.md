@@ -32,6 +32,7 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/CSS.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/HTML.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/JavaScript.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+[<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/JQuery.svg" width="32px" height="32px" />](https://en.wikipedia.org/wiki/JQuery)
 
 ### What I'm working on:
 * :computer: I'm taking a bootcamp at [OKCoders](https://www.okcoders.com)
