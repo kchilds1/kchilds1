@@ -20,6 +20,7 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 * During my time as an IT Analyst I learned some scripting languages to make my job easier when management request repetitive task in bulk. I was able to use R whenever managers would need specific information about multiple devices.  The process of looking up this information one at a time would have taken me over 30 min.  I was able to turn the task into a 3 min one.
 * While working at my previous company, I would get tickets for applications to be installed on over 50 computers at a time. This process would normally take several weeks due to scheduling with someone local to the site. So I created a powershell script to install the application on all 50 computers at once. Situations like this inspired me to move towards a developer path. I'm always trying to think of ways to simplify a process or how can I make a design easier for the end user to navigate with.
 * Earned HTML assessment badge on LinkedIn
+* Recieved Certificate of completion for completing Webflow 101 Certification Exam
 * Recieved my freeCodeCamp.org Responsive Web Design Developer [Certification](https://www.freecodecamp.org/certification/fcc32a1223e-1e46-4301-9c96-278da5b358f6/responsive-web-design) 
 
 ### Personal Interest:
