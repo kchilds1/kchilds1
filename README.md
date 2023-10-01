@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.  I've recently shifted my focus towards Web developer. 
+Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScript, React,Next.js, MongoDB, and Mongoose 
 
 ### Accomplishments:
 * During my time as an IT Analyst I learned some scripting languages to make my job easier when management request repetitive task in bulk. I was able to use R whenever managers would need specific information about multiple devices.  The process of looking up this information one at a time would have taken me over 30 min.  I was able to turn the task into a 3 min one.
