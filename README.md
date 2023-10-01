@@ -30,13 +30,14 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 * :video_game: Playing video games
 * :tv: Watching TV
 
-### What I'm learning:
+### Softwares:
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/CSS.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/HTML.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/JavaScript.svg" width="32px" height="32px" />](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/JQuery.svg" width="32px" height="32px" />](https://en.wikipedia.org/wiki/JQuery)
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/React-Dark.svg" width="32px" height="32px"/>](https://en.wikipedia.org/wiki/React_(software))
 [<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/MongoDB.svg" width="32px" height="32px"/>](https://en.wikipedia.org/wiki/MongoDB)
+[<img src="https://raw.githubusercontent.com/kchilds1/skill-icons/main/icons/NextJS-Dark.svg" width="32px" height="32px"/>](https://nextjs.org/)
 
 
 ### What I'm working on:
