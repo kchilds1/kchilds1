@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.  I've recently shifted my focus towards becoming a developer. 
+My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.  I've recently shifted my focus towards Web developer. 
 
 ### Accomplishments:
 * During my time as an IT Analyst I learned some scripting languages to make my job easier when management request repetitive task in bulk. I was able to use R whenever managers would need specific information about multiple devices.  The process of looking up this information one at a time would have taken me over 30 min.  I was able to turn the task into a 3 min one.
 * While working at my previous company, I would get tickets for applications to be installed on over 50 computers at a time. This process would normally take several weeks due to scheduling with someone local to the site. So I created a powershell script to install the application on all 50 computers at once. Situations like this inspired me to move towards a developer path. I'm always trying to think of ways to simplify a process or how can I make a design easier for the end user to navigate with.
 * Earned HTML assessment badge on LinkedIn
 * Recieved Certificate of completion for completing Webflow 101 Certification Exam
-* Recieved my freeCodeCamp.org Responsive Web Design Developer [Certification](https://www.freecodecamp.org/certification/fcc32a1223e-1e46-4301-9c96-278da5b358f6/responsive-web-design) 
+* Recieved my freeCodeCamp.org Responsive Web Design Developer [Certification](https://www.freecodecamp.org/certification/fcc32a1223e-1e46-4301-9c96-278da5b358f6/responsive-web-design)
+* Graduated from OK Coders Coding Camp
 
 ### Personal Interest:
 * :family: I enjoy being around my family
@@ -41,8 +42,9 @@ My name is Kenneth Childs Jr.  I've been in IT as an IT Analyst for a few years.
 
 
 ### What I'm working on:
-* :computer: I'm taking a bootcamp at [OKCoders](https://www.okcoders.com)
-* :computer: I'm also doing tutorials at [freecodecamp](https://www.freecodecamp.org) 
+* :computer: Interview prepping with [Leetcode](https://leetcode.com/)
+* :computer: Doing tutorials at [freecodecamp](https://www.freecodecamp.org)
+* :desktop_computer: Working on my latest project to help organize my career search [Project](https://jobs-qc4ko0c1v-kchilds1.vercel.app/)
 
 ### How to reach me:
 * :globe_with_meridians: I'm based in Tulsa, Oklahoma
