@@ -22,7 +22,7 @@ Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScr
 * Earned HTML assessment badge on LinkedIn
 * Recieved Certificate of completion for completing Webflow 101 Certification Exam
 * Recieved my freeCodeCamp.org Responsive Web Design Developer [Certification](https://www.freecodecamp.org/certification/fcc32a1223e-1e46-4301-9c96-278da5b358f6/responsive-web-design)
-* Graduated from OK Coders Coding Camp
+* Graduated from OK Coders Coding Camp [Certification](https://verified.sertifier.com/en/verify/87661273677519/)
 
 ### Personal Interest:
 * :family: I enjoy being around my family
