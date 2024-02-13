@@ -44,7 +44,7 @@ Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScr
 ### What I'm working on:
 * :computer: Interview prepping with [Leetcode](https://leetcode.com/)
 * :computer: Working to obtain a [Google UX Design Professional Certificate](https://www.coursera.org/)
-* :desktop_computer: Learning about web development with [WordPress](https://wordpress.org/)
+* :desktop_computer: Managing and creating [WordPress](https://wordpress.org/) websites
 
 ### How to reach me:
 * :globe_with_meridians: I'm based in Tulsa, Oklahoma
