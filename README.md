@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScript, React,Next.js, MongoDB, and Mongoose 
+Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScript, React,Next.js, MongoDB, and Mongoose | Service Center Analyst
 
 ### Accomplishments:
 * During my time as an IT Analyst I learned some scripting languages to make my job easier when management request repetitive task in bulk. I was able to use R whenever managers would need specific information about multiple devices.  The process of looking up this information one at a time would have taken me over 30 min.  I was able to turn the task into a 3 min one.
@@ -23,6 +23,7 @@ Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScr
 * Recieved Certificate of completion for completing Webflow 101 Certification Exam
 * Recieved my freeCodeCamp.org Responsive Web Design Developer [Certification](https://www.freecodecamp.org/certification/fcc32a1223e-1e46-4301-9c96-278da5b358f6/responsive-web-design)
 * Graduated from OK Coders Coding Camp [Certification](https://verified.sertifier.com/en/verify/87661273677519/)
+* Currently a Service Center Analyst II at BOKF
 
 ### Personal Interest:
 * :family: I enjoy being around my family
@@ -42,8 +43,7 @@ Creative and Passionate Cross-Platform Developer | Skilled in HTML, CSS, JavaScr
 
 
 ### What I'm working on:
-* :computer: Interview prepping with [Leetcode](https://leetcode.com/)
-* :desktop_computer: Managing and creating [WordPress](https://wordpress.org/) websites
+* :desktop_computer: Learning to Automate with Python [Automate the Boring Stuff with Python Programming](https://www.udemy.com/)
 
 ### How to reach me:
 * :globe_with_meridians: I'm based in Tulsa, Oklahoma
